@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Thickens a black outline around each word in proportion to how hard it was stressed — emphasis you can see.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
